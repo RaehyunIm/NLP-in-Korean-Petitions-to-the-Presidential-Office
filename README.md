@@ -5,13 +5,17 @@ The following dataset retrieved from petitions submitted to the Presidential Off
 Title and Content columns describe petition, written in Korean. These are the columns that this NLP analysis set its objective on. In the following analysis, I will perform preprocessing techniques such as tokenization, word embedding and removal of stopwords so that the text content is ready to be served for prediction analysis using machine learning algorithms in future. Given that the dataset has a binary response column, it can be used to predict which form of petition is probable to be answered by the Presidential Office. 
 
 ## Workflow 
-1.Locating and Understanding Data
-2.Grouping sample data based on common theme and key words
-3.Tokenization
+### 1.Locating and Understanding Data
+
+### 2.Grouping sample data based on common theme and key words
+
+### 3.Tokenization
 -	Text Preprocessing
 -	Word Tokenization
 -	Sentence Tokenization
-4.Word Embedding (Word2Vec)
+
+### 4.Word Embedding (Word2Vec)
 -	Word Similarity 
-5. Stopwords
+
+### 5. Stopwords
 
